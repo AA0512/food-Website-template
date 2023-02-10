@@ -1,12 +1,8 @@
-//   --﷽--
 
-// selecting all necessary dom element
-
-//select for menu
 const menuBar = document.querySelector("#menu-bar");
 const navbar = document.querySelector(".navbar");
 
-//select for menu image
+
 const catagory = document.querySelectorAll(".catagory input");
 const cataImg = document.querySelector("#c-img");
 
